@@ -1,0 +1,5 @@
+[user]
+	name = Ian Jones
+	email = ianj1993@gmail.com
+[core]
+	editor = cursor --wait

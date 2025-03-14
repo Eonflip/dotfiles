@@ -1,0 +1,19 @@
+# # Ignore history files
+# .bash_history
+# .zsh_history
+#
+# # Ignore system-generated files
+# .DS_Store
+# .Trash/
+# .CFUserTextEncoding
+#
+# # Ignore caches
+# .npm/
+# .terraform.d/
+# .pub-cache
+# .dart/
+# .dart-tool/
+# .dartServer/
+# .vscode/
+
+ssh/
